@@ -1,0 +1,10 @@
+{
+  "name": "database-testing",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node dbTest.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}
